@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    <script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-2.0.1.min.js" ></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-widgets-2.0.1.min.js" ></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-tables-2.0.1.min.js" ></script>
+<script type="text/javascript" src="https://cdn.bokeh.org/bokeh/release/bokeh-api-2.0.1.min.js" ></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
@@ -90,6 +94,7 @@
         POSTS
       </aside>
       
+      
 
 
 
@@ -107,10 +112,13 @@
 
       <h1 class="f1 athelas mt3 mb1">My First Post</h1>
       
-      
+      <h1>HELLO</h1>
+      <div>
+        {{% bokeh "bokeh_html_hover.json" %}}
+      </div>
+  
       
       <time class="f6 mv4 dib tracked" datetime="2022-04-23T12:53:07+02:00">April 23, 2022</time>
-      
 
       
       
@@ -127,7 +135,7 @@
     <aside class="w-30-l mt6-l">
 
 
-
+   
 
 </aside>
 
