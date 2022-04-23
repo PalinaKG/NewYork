@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pollution in New York City</title>
+    <link>https://palinakg.github.io/NewYork/</link>
+    <description>Recent content on Pollution in New York City</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Apr 2022 12:53:07 +0200</lastBuildDate><atom:link href="https://palinakg.github.io/NewYork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://palinakg.github.io/NewYork/posts/my-first-post/</link>
+      <pubDate>Sat, 23 Apr 2022 12:53:07 +0200</pubDate>
+      
+      <guid>https://palinakg.github.io/NewYork/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
