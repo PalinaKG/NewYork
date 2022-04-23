@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = "https://palinakg.github.io/NY"
 languageCode = 'en-us'
 title = 'Pollution in New York City'
 theme = "ananke"
