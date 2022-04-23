@@ -5,5 +5,5 @@ draft: false
 ---
 
 ---
-{{< bokeh "resources/bokeh_html_hover.json" }}
+{{< bokeh "resources/bokeh_html_hover.json" >}}
 ---
