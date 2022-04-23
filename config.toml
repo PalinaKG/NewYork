@@ -1,4 +1,5 @@
-baseURL = "https://palinakg.github.io/NY"
+baseURL = "https://palinakg.github.io/NewYork"
 languageCode = 'en-us'
 title = 'Pollution in New York City'
 theme = "ananke"
+publishDir = "docs"
